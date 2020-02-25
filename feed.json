@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Eastman blues guitar",
+    "description": "",
+    "home_page_url": "https://loicjaouen.github.io/publi-test",
+    "feed_url": "https://loicjaouen.github.io/publi-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "loic"
+    },
+    "items": [
+        {
+            "id": "https://loicjaouen.github.io/publi-test/work.html",
+            "url": "https://loicjaouen.github.io/publi-test/work.html",
+            "title": "Sound",
+            "summary": "and that's what skilled hands can do with it (this is not&hellip;",
+            "content_html": "<figure class=\"post__video\"><img class=\"post__image\" src=\"https://loicjaouen.github.io/publi-test/media/posts/2/PIC_0655.JPG\" alt=\"guitar\" width=\"3872\" height=\"2592\"></figure>\n<figure class=\"post__video\">and that's what skilled hands can do with it (this is not me but <a href=\"https://www.youtube.com/channel/UCyCzBSqAJxDE5m_HPzxqE0g\" title=\"Gigging Guitarist\">Gigging Guitarist</a>)</figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/85nmRCV6IZU\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p> </p>",
+            "author": {
+                "name": "loic"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-25T17:56:36+01:00",
+            "date_modified": "2020-02-25T21:37:24+01:00"
+        },
+        {
+            "id": "https://loicjaouen.github.io/publi-test/cv.html",
+            "url": "https://loicjaouen.github.io/publi-test/cv.html",
+            "title": "Specs",
+            "summary": "Eastman t386 specs(stollen from Eastman Guitars' site)Neck Material:MapleFingerboard:EbonyFingerboard Radius:12\"Neck Profile:Traditional Even \"C\"Nut:Bone&hellip;",
+            "content_html": "<div class=\"product-block__title hidden-xs\">\n<div class=\"product-block__headline\">Eastman t386 specs</div>\n<div class=\"product-block__headline\"><em>(<a href=\"https://www.eastmanguitars.com/t386\" title=\"Eastman Guitars t386\">stollen from Eastman Guitars' site</a>)</em></div>\n</div>\n<div class=\"product-block__content-inner\">\n<ul class=\"product-block__specs\">\n<li>Neck Material:Maple</li>\n<li>Fingerboard:Ebony</li>\n<li>Fingerboard Radius:12\"</li>\n<li>Neck Profile:Traditional Even \"C\"</li>\n<li>Nut:Bone 1 3/4\"</li>\n<li>1st Fret String Height:.022\"</li>\n<li>12th Fret String Height:Bass .078\" &amp; Treble .062\"</li>\n<li>Fretwire:22 Medium Jumbo Jescar 47104</li>\n<li>Scale Length:24.75\"</li>\n<li>Body Style:16\" Thinline</li>\n<li>Body Dimensions:16\" x 1 3/4\"</li>\n<li>Body Top:Maple Laminate</li>\n<li>Body Back/Sides:Maple Laminate</li>\n<li>Truss Rod:Single Acting</li>\n<li>Binding:Body and Neck</li>\n<li>Binding Material:Ivoroid</li>\n<li>Logo:Pearl Headstock</li>\n<li>Inlay:Pearl Dots</li>\n<li>Finish:Nitrocellulose</li>\n<li>Hardware Color:Nickel</li>\n<li>Pickguard:Black Plastic with Ivoroid Binding</li>\n<li>Tailpiece:Gotoh stop tailpiece</li>\n<li>Bridge:Tuneomatic</li>\n<li>Tuners:Pingwell RM1239-N</li>\n<li>Knobs:Amber Speed Knobs</li>\n<li>Neck Pickup:Kent Armstrong HPAN-1N</li>\n<li>Bridge Pickup:Kent Armstrong HPAN-1B</li>\n<li>Pickup Height:3/32\" bass side, 3/32\" treble side</li>\n<li>Pickup Frame:Black Plastic</li>\n<li>3 Way Switch:Switchcraft </li>\n<li>Switch Tip:Amber Switchcraft</li>\n<li>Capacitors:0.047μF</li>\n<li>Potentiometers:500K AudioTaper</li>\n<li>Output Jack:Switchcraft</li>\n<li>Strings:D’Addario NYXL .010 - .046</li>\n<li>Case:Hardshell Case</li>\n</ul>\n<p>mine:</p>\n</div>\n<figure class=\"post__image\"><img src=\"https://loicjaouen.github.io/publi-test/media/posts/1/PIC_0674.JPG\" alt=\"\" width=\"3872\" height=\"2592\"> \n<figure class=\"post__image undefined\"><img src=\"https://loicjaouen.github.io/publi-test/media/posts/1/PIC_0662.JPG\" alt=\"\" width=\"3872\" height=\"2592\"></figure>\n<p> </p>\n<p>not mine, but that's what it is like new:</p>\n<p><img src=\"https://d3n8a8pro7vhmx.cloudfront.net/eastman/pages/2179/attachments/original/1505421835/T386-RD_Thinline__FRD1_0815.jpg?1505421835\" alt=\"from the site\" width=\"1457\" height=\"2400\"></p>\n</figure>",
+            "image": "https://loicjaouen.github.io/publi-test/media/posts/1/PIC_0650.JPG",
+            "author": {
+                "name": "loic"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-23T21:40:32+01:00",
+            "date_modified": "2020-02-25T21:28:54+01:00"
+        }
+    ]
+}
